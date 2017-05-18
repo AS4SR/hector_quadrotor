@@ -62,7 +62,7 @@ There are three ways to install hector_quadrotor, pick one of these:
 Requirements, Setup, Use
 ========================
 
-This requires a ROS kinetic install on an Ubuntu 16.04 LTS instance. (This has been tested-working under VirtualBox and as a native Ubuntu install. A native Ubuntu installation is preferred, as it runs much faster and more efficiently, and gazebo is much more stable.)
+This requires a ROS kinetic install on an Ubuntu 16.04 LTS instance. (This has been tested-working under a native Ubuntu install; testing under VirtualBox is pending. A native Ubuntu installation is preferred, as it runs much faster and more efficiently, and gazebo is much more stable.)
 
 For more detailed Ubuntu O/S installation instructions, see:
 * [https://github.com/AS4SR/general_info/wiki/Instructions-for-installing-ROS-and-Gazebo!](https://github.com/AS4SR/general_info/wiki/Instructions-for-installing-ROS-and-Gazebo!)
