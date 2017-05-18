@@ -65,7 +65,7 @@ Requirements, Setup, Use
 This requires a ROS kinetic install on an Ubuntu 16.04 LTS instance. (This has been tested-working under VirtualBox and as a native Ubuntu install. A native Ubuntu installation is preferred, as it runs much faster and more efficiently, and gazebo is much more stable.)
 
 For more detailed Ubuntu O/S installation instructions, see:
-* https://github.com/AS4SR/general_info/wiki/Instructions-for-installing-ROS-and-Gazebo!-:)
+* [https://github.com/AS4SR/general_info/wiki/Instructions-for-installing-ROS-and-Gazebo!](https://github.com/AS4SR/general_info/wiki/Instructions-for-installing-ROS-and-Gazebo!)
 * https://github.com/cmcghan/vagrant-rss/blob/ubuntu-16.04-xenial/README.md
 
 Note that this and other ROS code does **not** work on Bash on Ubuntu on Windows for Windows 10, as of 2017-05-18, due to issues with the Linux Subsystem and also the ros_comm library's (mis)handling of TCP/IP errors/warning messages.
