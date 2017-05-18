@@ -84,7 +84,7 @@ Run the original "indoors" tutorial sim via:
 ```
     roslaunch hector_quadrotor_demo indoor_slam_gazebo.launch
 ```
-* terminal #2: ([link]()http://answers.ros.org/question/217686/controlling-hector-quadrotor-with-keyboard/)
+* terminal #2: ([link](http://answers.ros.org/question/217686/controlling-hector-quadrotor-with-keyboard/))
 ```
     rosservice call /enable_motors true # so the "motors" will respond to `geometry_msgs/Twist` commands to `/cmd_vel`
     rosrun teleop_twist_keyboard teleop_twist_keyboard.py
